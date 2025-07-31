@@ -11,7 +11,7 @@ A lightweight single-page React application that offers smart and interactive te
 - 👁️ **Live Text Preview** area that updates with user input
 - 🎯 Fully functional **SPA with React Router**
 - 📡 Smooth **Loading Bar** on route change (UX enhancement)
-- 📚 Second page includes a **Simple Accordion** with 3 collapsible sections
+- 📚 Second page includes a **Simple Accordion** with 4 collapsible sections
 
 ## 🔧 Tech Stack
 
