@@ -7,8 +7,8 @@ import React, { useState } from 'react'
 import Loader from './component/Loader'
 
 import {
-  BrowserRouter as Router,
-  Switch,
+  HashRouter as Router,     // yee sirf live karne ka lia hai git hub paa nahi balke internet paa agar koi masla aye routing mee
+  Switch,                   // too sirf HashRouter kee jaga BrowserRouter laga  dena hai 
   Route,
   Link
 } from "react-router-dom";
