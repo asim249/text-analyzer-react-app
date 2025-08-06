@@ -19,6 +19,14 @@ A lightweight single-page React application that offers smart and interactive te
 - React Router DOM
 - HTML/CSS (custom styling, no UI framework)
 
+## 🎥 Live Demo (GIF)
+
+Here is a short demo of the app in action:
+
+![App Demo](./src/gif/Text-utils.gif)
+
+---
+
 ## 🧑‍💻 Developer
 
 Developed by Asim Mir (asim249)
