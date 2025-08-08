@@ -1,6 +1,6 @@
 # 📝 Text Analyzer React App
 
-![React](https://img.shields.io/badge/React-18-blue)
+![React](https://img.shields.io/badge/React-16-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
 ![Text Analyzer](https://img.shields.io/badge/Text-Analyzer-green)
